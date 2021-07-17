@@ -34,7 +34,7 @@
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
-                <artifllactId>spring-boot-maven-plugin</artifllactId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <!--指定springboot主类-->
                     <mainClass>
